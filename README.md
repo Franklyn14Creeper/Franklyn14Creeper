@@ -105,8 +105,6 @@
   </a>
 </div>
 
----
-
 <h6 align="center">👇🏻 Mis proyectos Open Source: 👇🏻</h6>
 
 <div align="center">
