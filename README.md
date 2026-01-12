@@ -9,8 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&center=true&width=440&height=45"></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=11B5FF&width=435&lines=Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+-+UNEG;Siempre+dispuesto+a+mejorar+mis+habilidades" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/Frank14Creeper/" align="center" ><img align="center" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Frank14Creeper.Frank14Creeper"></a>
@@ -19,21 +18,33 @@
 ---
 
 - 👨‍💻 **Franklyn Quintero** | Apasionado por la tecnología y el desarrollo de software.
-- 💬 Pregúntame sobre: **Desarrollo Web, Lógica de programación y nuevas tecnologías.**
-- 🌱 Actualmente profundizando en: **[Escribe aquí lo que estés estudiando]**
+- 💬 Dispuesto a aprender y avanzar
+- 🌱 Actualmente profundizando en: **Desarrollo de Mods en C++ (01/2026)**
 
-## 🛠 &nbsp;Tech Stack (Mis Herramientas)
+## 🛠 &nbsp;Mis Herramientas
 
-#### 🔧 Lenguajes y Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+#### 🔧 Lenguajes
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
 
-#### 🔧 Herramientas
+#### 🖥️ Frameworks
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🔧 Herramientas de Desarrollo (IDEs & Control de Versiones)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-FF3131?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estadísticas de Perfil
 
@@ -85,12 +96,25 @@
 ### 🔗 &nbsp;Contáctame
 
 <div align="center">
-<a href="mailto:tu-correo@ejemplo.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tu-usuario-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:FranklynQuinteroDuran14@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Frank14Creeper">
+    <img alt="GitHub" src="https://img.shields.io/badge/Sigueme_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <h6 align="center">👇🏻 Mis proyectos Open Source: 👇🏻</h6>
 
-<p align="center">Editado por: Frank14Creeper</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/grupoBackend/GIMA">
+          <img src="https://img.shields.io/badge/PROYECTO_GIMA-UNEG-blue?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
